@@ -1,0 +1,3 @@
+[submodule "plapp-dataservice"]
+	path = plapp-dataservice
+	url = git@github.com:TAASPlapp/plapp-dataservice.git
