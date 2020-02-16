@@ -13,3 +13,6 @@
 [submodule "plapp-frontend-android"]
 	path = plapp-frontend-android
 	url = git@github.com:TAASPlapp/plapp-frontend-android
+[submodule "plapp-auth-service"]
+	path = plapp-auth-service
+	url = git@github.com:TAASPlapp/plapp-auth-service.git
