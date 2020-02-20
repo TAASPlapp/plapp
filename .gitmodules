@@ -1,6 +1,3 @@
-[submodule "plapp-interactionservice"]
-	path = plapp-interactionservice
-	url = git@github.com:TAASPlapp/plapp-interactionservice.git
 [submodule "plapp-gardenerservice"]
 	path = plapp-gardenerservice
 	url = git@github.com:TAASPlapp/plapp-gardenerservice
