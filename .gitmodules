@@ -10,6 +10,15 @@
 [submodule "plapp-auth-service"]
 	path = plapp-auth-service
 	url = git@github.com:TAASPlapp/plapp-auth-service.git
+[submodule "plapp-data-entities"]
+	path = plapp-data-entities
+	url = git@github.com:TAASPlapp/plapp-data-entities.git
 [submodule "plapp-greenhouse-service"]
 	path = plapp-greenhouse-service
 	url = git@github.com:TAASPlapp/plapp-greenhouse-service.git
+[submodule "plapp-api-gateway"]
+	path = plapp-api-gateway
+	url = git@github.com:TAASPlapp/plapp-api-gateway.git
+[submodule "plapp-social-service"]
+	path = plapp-social-service
+	url = git@github.com:TAASPlapp/plapp-social-service.git
