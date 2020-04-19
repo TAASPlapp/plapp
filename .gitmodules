@@ -22,3 +22,6 @@
 [submodule "plapp-social-service"]
 	path = plapp-social-service
 	url = git@github.com:TAASPlapp/plapp-social-service.git
+[submodule "plapp-authorization-filter"]
+	path = plapp-authorization-filter
+	url = git@github.com:TAASPlapp/plapp-authorization-filter.git
