@@ -28,3 +28,6 @@
 [submodule "plapp-notification-service"]
 	path = plapp-notification-service
 	url = git@github.com:TAASPlapp/plapp-notification-service.git
+[submodule "plapp-diagnosis-service"]
+	path = plapp-diagnosis-service
+	url = git@github.com:TAASPlapp/plapp-diagnosis-service.git
