@@ -25,3 +25,6 @@
 [submodule "plapp-authorization-filter"]
 	path = plapp-authorization-filter
 	url = git@github.com:TAASPlapp/plapp-authorization-filter.git
+[submodule "plapp-notification-service"]
+	path = plapp-notification-service
+	url = git@github.com:TAASPlapp/plapp-notification-service.git
