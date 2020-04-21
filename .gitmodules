@@ -31,3 +31,6 @@
 [submodule "plapp-diagnosis-service"]
 	path = plapp-diagnosis-service
 	url = git@github.com:TAASPlapp/plapp-diagnosis-service.git
+[submodule "plapp-resource-service"]
+	path = plapp-resource-service
+	url = git@github.com:TAASPlapp/plapp-resource-service.git
